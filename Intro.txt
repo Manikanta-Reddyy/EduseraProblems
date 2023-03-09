@@ -1,0 +1,16 @@
+ Data Types 
+ Widening conversion    ||     Narrowing conv
+ 
+Implicit  --- only widening possible 
+Explicit  --- both Widening and Narrowing Possible
+
+Bitwise operators
+
+Bitwise and ex:10&8    (1 only both are 1 other wise 0) (also known as conjunction)
+
+10 = 1010, 8 =1000  (A&B)
+
+Bitwise OR   ex:10|5   (1 atleast 1 otherwise 0)   (A|B)
+
+Bitwise XOR   ex:7^4   (if both are same output will be 0 if both are different output 1)  (A^B)
+
